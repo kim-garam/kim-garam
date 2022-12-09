@@ -1,4 +1,4 @@
-### Hi there I'm GaRam👋
+### Hi there, I'm GaRam👋
 
 <!--
 **kim-garam/kim-garam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
