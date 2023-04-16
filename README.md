@@ -1,6 +1,4 @@
-### Hi there, I'm GaRam👋
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=2ECCFA&height=200&section=header&fontAlign=70&rotate=13&fontAlignY=25&text=Hi,%20There!&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling&desc=I'm%20dreaming%20data%20analyst!&descAlign=70.&descAlignY=44" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=2ECCFA&height=200&section=header&fontAlign=70&rotate=13&fontAlignY=25&text=Hi,%20There!&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling&desc=I'm%20dreaming%20Data%20Scientist!&descAlign=70.&descAlignY=44" width="100%"/>
 
 <h2 align="center">🛠 STACK 🛠</h2>
 
